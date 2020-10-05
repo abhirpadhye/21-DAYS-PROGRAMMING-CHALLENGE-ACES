@@ -1,0 +1,89 @@
+DSA
+
+Arrays Basics
+
+1) Create an Array of size 10 of integers. Take input from the user for these
+10 elements and print the entire array after that.
+
+#include<iostream>
+using namespace std;
+
+int main(){
+	int arr[10];
+	for(int i=0;i<10;i++){
+		cin>>arr[i];
+	}
+	
+	for(int i=0;i<10;i++){		
+	    cout<<arr[i]<<" ";
+	}
+	
+}
+
+2) Find the minimum and maximum element in an array.
+#include<iostream>
+#include<algorithm>
+#include<bits/stdc++.h>
+
+using namespace std;
+
+int main(){
+    int n,min=INT_MAX,max=INT_MIN;
+    cin>>n;
+    
+    int arr[n];
+    for(int i=0;i<n;i++){
+        cin>>arr[i];
+        if(arr[i]<min){
+            min=arr[i];
+        }
+        if(arr[i]>max){
+            max=arr[i];
+        }
+    }
+    
+    cout<<"MAX:"<<max<<endl;
+    cout<<"MIN:"<<min;
+    
+}
+
+3) Write a program to reverse the array.
+
+
+#include<iostream>
+#include<algorithm>
+#include<bits/stdc++.h>
+
+using namespace std;
+
+int main(){
+	int n;
+	cin>>n;
+	int arr[n];
+	int temp;
+	int f=0;
+	int l=n-1;
+	
+	for(int i=0;i<n;i++){
+		cin>>arr[i];
+	}
+	while(f>l){
+		temp=arr[f];
+		arr[f]=arr[l];
+		arr[l]=temp;
+		f++;
+		l--;	
+			
+	}
+	for(int i=0;i<n;i++){
+		cout<<arr[i]<<" ";
+	}
+	
+	
+}
+
+
+
+MACHINE LEARNING
+
+ I learnt the basics of what machine learning is, how machines can learn to do tasks from example data. I've seen a little about how it's possible for a relatively simple computer algorithm to learn complex tasks from data. And I've also learned a bit about the kinds of tasks that machine learning algorithms can do, mapping inputs to outputs. But most importantly I've actually tried machine learning myself through Coursera program . I've trained a model by giving it examples. By doing it myself, I have got a sense of how it works, and just as importantly, the ways in which it doesn't work. Machine learning is a really exciting technology that's revolutionizing how computers work and what they can do. I've taken my first steps in being part of that revolution and taking my part in the future of computer science.
