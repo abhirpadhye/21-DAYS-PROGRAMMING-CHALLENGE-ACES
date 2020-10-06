@@ -1,0 +1,47 @@
+ML
+
+I learnt the basic theory of Data Representation and Data Features . In Data Representation I learnt about a Bit , A bit is an abstract representation that can represent any duality, any binary distinction between two things. Like anything on a computer, it's this abstraction that gives it its power and a lot more . After this there were Bytes and Numbers and then Other types of data.
+
+After this I learnt about the Data Features which is a huge topic in itslef which included Introduction to Data Features and Neural Networks . Then I attempted a quiz related to it. All of this was done in the Coursera's Machine Learning for All corse. 
+
+DSA
+
+I learnt about Vectors and different functions in its STL library , like sort(),find() etc.I
+I also saw some DSA videos whose questions i will be doing tommorow.
+I also solved a Hackerrank problem of vectors whose solution is below:
+
+
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+
+
+using namespace std;
+int main(){
+   int n,q;
+   int index,value,col,size;
+   
+   cin>>n>>q;
+   vector<int> mainwala[n]; 
+
+   for(int i=0;i<n;i++){
+       cin>>size;
+        
+        for(int j=0;j<size;i++){
+            cin>>value;
+            mainwala[i].push_back(value);
+        }
+
+   }
+
+   for(int k=0;k<q;k++){
+       cin>>col>>index;
+       cout<<mainwala[col][index];
+   }
+   
+   
+  
+return 0;
+}   
