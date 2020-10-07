@@ -1,0 +1,9 @@
+ML
+
+I learnt the basic theory of Testing and Societal Impact of Machine Learning , this included the
+
+After this I learnt about the frauds which is a huge topic in itslef which included networks. Then I attempted a quiz related to it. All of this was done in the Coursera's Machine Learning for All corse. 
+
+DSA
+
+I learnt the theory of 2-3 algorithms including Insertion Sort , Shell sort etc.
