@@ -1,0 +1,19 @@
+ML 
+
+So , Today I also learned about:
+ Artificial Neural Network (ANN) 
+Neural networks, also known as artificial neural networks, consists of input and output layers, as well as a hidden layer consisting of units that transform the input into something that the output layer can use. They perform very well in tasks that require to find patterns.
+
+Deep Neural Network (DNN) 
+Deep learning is a subset of machine learning where multiple layers of neural networks are stacked to create a huge network to map input into the output. It allows the network to extract different features until it can recognize what it is looking for.
+
+Linear regression
+Linear regression is a machine learning algorithm based on supervised learning. It performs a regression task. Regression models a target prediction value based on independent variables. It is mostly used for finding out the relationship between variables and forecasting. One example of a task where linear regression can be used is forecasting housing price based on past values.
+
+
+K-Nearest Neighbors (K-NN)
+The k-nearest neighbors (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems.
+The KNN algorithm assumes that similar things exist in close proximity. In other words, similar things are near to each other.
+
+
+This 4 topics are just the summary of what I read.
