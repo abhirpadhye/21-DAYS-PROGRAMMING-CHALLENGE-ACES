@@ -1,0 +1,89 @@
+DSA
+
+Program to sort array elements in Ascending Order in C++
+
+#include <iostream>
+using namespace std;
+
+#define MAX 100
+
+int main()
+{
+	//array declaration
+	int arr[MAX];
+	int n,i,j;
+	int temp;
+	
+	//read total number of elements to read
+	cout<<"Enter total number of elements to read: ";
+	cin>>n;
+	
+	//check bound
+	if(n<0 || n>MAX)
+	{
+		cout<<"Input valid range!!!"<<endl;
+		return -1;
+	}
+	
+	//read n elements
+	for(i=0;i<n;i++)
+	{
+		cout<<"Enter element ["<<i+1<<"] ";
+		cin>>arr[i];
+	}
+	
+	//print input elements
+	cout<<"Unsorted Array elements:"<<endl;
+	for(i=0;i<n;i++)
+		cout<<arr[i]<<"\t";
+	cout<<endl;
+	
+	//sorting - ASCENDING ORDER
+	for(i=0;i<n;i++)
+	{		
+		for(j=i+1;j<n;j++)
+		{
+			if(arr[i]>arr[j])
+			{
+				temp  =arr[i];
+				arr[i]=arr[j];
+				arr[j]=temp;
+			}
+		}
+	}
+	
+	//print sorted array elements
+	cout<<"Sorted (Ascending Order) Array elements:"<<endl;
+	for(i=0;i<n;i++)
+		cout<<arr[i]<<"\t";
+	cout<<endl;	
+	
+	
+	return 0;
+	
+
+
+
+
+ML
+
+
+Training and testing machine learning with some example dataset.
+So it was a machine learning practical where we have to give inputs from our system . For ex. I want to compare dogs and cats , so I give the system different types of images including the specific exceptions , the program had around 85% of accuracy , which was good. I also learnt about the concept that why and how we have to  give the system 4/5 of datasets as examples or preset and use the rest 1/5 for testing . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
