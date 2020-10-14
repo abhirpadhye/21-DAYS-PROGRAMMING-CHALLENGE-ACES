@@ -1,0 +1,16 @@
+I amd doing this course on Data Science for which I amd going to require the basics of Python , so I was just focussing on it.
+It included :
+Numbers
+Strings
+Print formatting
+Kists
+Dictionaries
+Booleans 
+Tupples and sets
+Comparison operators
+If , elif , else statements
+For loop
+While loop
+
+It is still going on.
+ 
