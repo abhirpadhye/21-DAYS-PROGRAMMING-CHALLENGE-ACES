@@ -1,0 +1,16 @@
+Getting ahead in revision of Python for data science , I did :
+
+Range()
+Maps adn Filter
+Lambda expression
+Function
+
+After Python Crash Course , I started NumPy tutorial which included :
+
+Introduction to NumPy
+NumPy Arrays
+NumPy Array Indexing
+NumPy Operations
+And some question related to NumPy
+
+After NumPy I started the Pandas library tutorial  which included Series and Data frames which is still going on.
