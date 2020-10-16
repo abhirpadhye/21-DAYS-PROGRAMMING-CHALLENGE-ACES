@@ -1,0 +1,50 @@
+Continuing with my Data Science project :
+
+I did NumPy Excercises
+
+Then I came on Pandas and did it's excercise:
+Let's see some of its basics :
+
+labels = ['a','b','c']
+my_list = [10,20,30]
+arr = np.array([10,20,30])
+d = {'a':10,'b':20,'c':30}
+
+pd.Series(data=my_list)
+0    10
+1    20
+2    30
+dtype: int64
+
+pd.Series(my_list,labels)
+
+a    10
+b    20
+c    30
+dtype: int64
+
+pd.Series(arr)
+0    10
+1    20
+2    30
+dtype: int64
+
+pd.Series(arr,labels)
+a    10
+b    20
+c    30
+dtype: int64
+
+DATA IN A SERIES
+
+A pandas Series can hold a variety of object types:
+
+pd.Series(data=labels)
+0    a
+1    b
+2    c
+dtype: object
+
+AND SIMILARLY USING INDEX
+
+Other than this , I did Data Frames Section too and its problems.
