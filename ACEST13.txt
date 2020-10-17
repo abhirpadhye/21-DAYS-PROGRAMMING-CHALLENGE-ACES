@@ -1,0 +1,6 @@
+Going forward in my Data Science Bootcamp , I completed the Data Frames section today.
+Oter than Data Frames , I did the missing data work section.
+Continuing :
+Merging , Joining and Concatenating was some of the other tasks in which as the name suggest was used to join the series and other data frames . At last I did the Data Input and Output section , which helped me to input some external files including CSV , Excel and many other files .
+
+This finished the Data Analaysis Section , and then I was gone on the Data Visualization Section , which began with Matplotlib ,I did the basic introduction of it.
