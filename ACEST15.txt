@@ -1,0 +1,17 @@
+Today , I completed my Matplotlib tutorial . It mainly included :
+
+ Basic Matplotlib Commands
+Creating Multiplots on Same Canvas
+Matplotlib Object Oriented Method
+subplots()
+figure size, aspect ratio and DPI
+Saving figures
+Legends, labels and titles
+Setting colors, linewidths, linetypes
+Colors with MatLab like syntax
+Colors with the color= parameter
+Line and marker styles
+Plot range
+Special Plot Types
+
+This topics are very huge in themselves , I also solved few problems related to the same topiccs.
