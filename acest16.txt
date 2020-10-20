@@ -1,0 +1,16 @@
+Getting forward in my Data Science Bootcamp , I solved few problems related to MatPlotlib and I started with Seaborn :
+
+First topic was distribution plots , which is a huge topic in itslef . Summarizing the plots I saw were:
+
+(a) Distplot : Basic histogram type data
+(b) Jointplot : Small dots like cells representing data on different axes
+(c) Jointplot with hexagon like cells in kind parameter
+(d) Jointplot with regression line
+(e) Pairplot : To plot multiple pairwise bivariate distributions in a dataset
+(f) Pairplot with hue which creates difference between the two choices
+(g) Rugplot : Draw dashes for every point
+
+I also learnt about Normal Distribution and Gaussian Distribution.
+
+Seaborne is still on .
+
