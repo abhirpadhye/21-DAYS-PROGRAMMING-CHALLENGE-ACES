@@ -1,0 +1,13 @@
+Going further in my Data Science Bootcamp , I continued with Seaborn , specifically the Caegorical Plots which included:
+
+(a) Barplot : A barplot is basically used to aggregate the categorical data according to some methods and by default it’s the mean.
+
+(b) Countplot : A countplot  is used to show the counts of observations in each categorical bin using bars.
+
+(c) Violinplot : Violin Plot is a method to visualize the distribution of numerical data of different variables. It is similar to Box Plot but with a rotated plot on each side, giving more information about the density estimate on the y-axis .
+
+(d) Stripplot
+
+(e) Swarmplot
+
+(f) Factorplot / Catplot
